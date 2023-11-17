@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Ethan S."
+	"author": "Ethan S.",
+	"description": "A project that does something awesome"
 }
